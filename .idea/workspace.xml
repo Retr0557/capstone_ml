@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="34000f44-3a62-411b-b659-9451ac7d30ab" name="Changes" comment="" />
+    <list default="true" id="34000f44-3a62-411b-b659-9451ac7d30ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colab_files_to_train_models/Multiple disease prediction system - Parkinsons.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colab_files_to_train_models/Multiple disease prediction system - diabetes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colab_files_to_train_models/Multiple disease prediction system - heart.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/diabetes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/heart.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/parkinsons.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +34,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Multiple disease prediction system - Parkinsons.executor": "Run",
+    "Python.Multiple disease prediction system - diabetes.executor": "Run",
+    "Python.Multiple disease prediction system - heart.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/saligrammac/Desktop/Capston_ML_model"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +68,19 @@
       <updated>1757607236731</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
